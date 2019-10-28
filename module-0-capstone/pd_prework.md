@@ -34,10 +34,13 @@ Step 2: Read this post and watch this video to start building an understanding o
    * [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) (2.5 minute read)
       
 Step 3: Please respond to the following questions in a reflection (4-6 sentences):
-   * What is your greatest strength and how do you know?
-    * My greatest strength is my ability to make complex and surprising connections in a variety of ways. I already use this in my creative life to pair seemingly disparate ideas into one harmonious visual. This skill spills over into other areas, and can be accessed by the logical side of my brain. I know this based past experience, learning what it takes to be a creative, and others' feedback.
+   * What is your greatest strength and how do you know? 
+   
+My greatest strength is my ability to make complex and surprising connections in a variety of ways. I already use this in my creative life to pair seemingly disparate ideas into one harmonious visual. This skill spills over into other areas, and can be accessed by the logical side of my brain. I know this based past experience, learning what it takes to be a creative, and others' feedback.
+
+
    * How do you work best?
-    * I work best by diving into a problem individually. I first need to sort out all the pieces and build a framework of the issue in my mind. Once that's been established, I let my mind explore the framework by jumping around to different elements and seeing what can be combined or sorted in some way. I then move on to testing each idea out until my intuition gives me the nudge that something has 'clicked.'
+    I work best by diving into a problem individually. I first need to sort out all the pieces and build a framework of the issue in my mind. Once that's been established, I let my mind explore the framework by jumping around to different elements and seeing what can be combined or sorted in some way. I then move on to testing each idea out until my intuition gives me the nudge that something has 'clicked.'
    * What is your greatest area of improvement?
     * My greatest area of opportunity is expanding my learning process to include the perspectives of others. I often isolate when focused on completing a task. This closes off the possibility of having an outside perspective there to compare ideas and offer new solutions. I sometimes have a fear of asking for help based on the feeling that I need to do everything on my own, and that's a habit I hope to break at Turing.
    * How do you hope to maximize your strengths for your new career in software development?
