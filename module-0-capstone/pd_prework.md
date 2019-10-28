@@ -32,7 +32,8 @@ Step 2: Read this post and watch this video to start building an understanding o
 
    * [Understanding Your Pairin Results](https://www.youtube.com/watch?v=VXe3i_KjaSI) (2 minutes)
    * [Pairin Qualities Overview](https://github.com/turingschool/career-development-curriculum/blob/master/files/Pairin%20Top%20Qualities%20Overview.pdf) (2.5 minute read)
-      
+#
+
 Step 3: Please respond to the following questions in a reflection (4-6 sentences):
    * What is your greatest strength and how do you know? 
    
