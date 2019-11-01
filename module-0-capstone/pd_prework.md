@@ -35,7 +35,7 @@ Step 2: Read this post and watch this video to start building an understanding o
 #
 
 Step 3: Please respond to the following questions in a reflection (4-6 sentences):
-   * What is your greatest strength and how do you know? 
+  ## * What is your greatest strength and how do you know? 
    
     My greatest strength is my ability to make complex and surprising connections in a variety of ways. I already use this in my creative life to pair seemingly disparate ideas into one harmonious visual. This skill spills over into other areas, and can be accessed by the logical side of my brain. I know this based on past experience, through learning what it takes to be a creative, and listening to others' feedback.
 
