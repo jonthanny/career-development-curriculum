@@ -41,25 +41,25 @@ My greatest strength is my ability to make complex and surprising connections in
 
 ---
 
-## How do you work best?
+### How do you work best?
    
 I work best by diving into a problem individually. I first need to sort out all the pieces and build a framework of the issue in my mind. Once that's been established, I let my mind explore the framework by jumping around to different elements and seeing what can be combined or sorted in some way. I then move on to testing each idea out until my intuition gives me the nudge that something has 'clicked.' Recently, I've realized that I can increase retention/integration by teaching these concepts to another person. There are many studies that suggest teaching a concept helps you understand it better, and I've experienced this firsthand.
     
 ---
 
-## What is your greatest area of improvement?
+### What is your greatest area of improvement?
    
 My greatest area of opportunity is expanding my learning process to include the perspectives of others. I often isolate when focused on completing a task. This closes off the possibility of having an outside perspective there to compare ideas and offer new solutions. I sometimes have a fear of asking for help based on the feeling that I need to do everything on my own, and that's a habit I hope to break at Turing.
     
 ---
 
-## How do you hope to maximize your strengths for your new career in software development?
+### How do you hope to maximize your strengths for your new career in software development?
    
 To my understanding, coding is just complex problem solving. I hope to use my creative brain to see new ways to engineer code and arrive at surprising solutions. I want to double down on my ability to process information and spin it in new ways in my head in order to drive innovation. I hope to even apply this to my learning process and come up with engaging study tactics that will maximize comprehension. Beyond that, I want to integrate coding into my other interests in any way possible. I already have a well-established creative flow in other mediums, and if I can mix that with my coding ability, I'll become extremely successful.
 
 ---
 
-## How might knowing about your strengths and working preferences benefit you as a software developer? 
+### How might knowing about your strengths and working preferences benefit you as a software developer? 
     
 By knowing my strengths and working preferences, I can more seamlessly integrate into a team. It's crucial to know what you can contribute so that you can spend more time doing the things you're good at, instead of fighting your natural abilities. Knowing where you can fit in, where you can offer help, and where you can broaden your horizons allows the individual and the team to thrive in the most efficient way. In addition to the team element, knowing my strengths and working preferences will help me in my own learning process. Since there are so many ways to learn and not every way works for everyone, it's important to identify the most efficient way you can process information and move into a space of mastery. Furthermore, when you know your strengths, you likely have an idea of your weaknesses. Knowing your weaknesses allows you to cover your blind spots so you aren't glossing over important concepts.
 
@@ -70,10 +70,18 @@ By knowing my strengths and working preferences, I can more seamlessly integrate
  Step 4: Read Ta-Nehisi Coates' article, ["Getting Better at Difficult Things"](http://www.theatlantic.com/education/archive/2015/03/a-quick-note-on-getting-better-at-difficult-things/387133/) and watch Kathy Sierra's keynote from [Fluent Conf 2015](https://www.youtube.com/watch?v=FKTxC9pl-WM)
  
  Step 5: Please respond to the following questions in a reflection (4-6 sentences):
-  * What efforts do you make to manage your learning process? Are these efforts successful? What challenges have inhibited your ability to manage your learning process effectively?
-  * How do Sierra's and Coate's material relate to your current process for learning?
-  * What role does your emotional state of mind play in your learning? How do your successes and failures at learning affect your emotional state?
-  * How will you prepare yourself to be at your best with your learning process while at Turing?
+ 
+ 
+### What efforts do you make to manage your learning process? Are these efforts successful? What challenges have inhibited your ability to manage your learning process effectively?
+
+There are several occasions when I recall learning a complex skill very quickly without much effort. Using the model from Sierra's keynote, the skill moved from board A to board C. In the earlier occasions, I didn't know what was making my learning so effective. Later on, I realized what it was: I was getting into 'flow state' and learning new things as I implemented them.  
+### How do Sierra's and Coate's material relate to your current process for learning?
+
+
+### What role does your emotional state of mind play in your learning? How do your successes and failures at learning affect your emotional state?
+
+
+### How will you prepare yourself to be at your best with your learning process while at Turing?
  
 ## **Capstone submission directions:**
 In a gist, please:
