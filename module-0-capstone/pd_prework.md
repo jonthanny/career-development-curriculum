@@ -35,7 +35,8 @@ Step 2: Read this post and watch this video to start building an understanding o
 #
 
 Step 3: Please respond to the following questions in a reflection (4-6 sentences):
-## What is your greatest strength and how do you know? 
+
+### What is your greatest strength and how do you know? 
    
 My greatest strength is my ability to make complex and surprising connections in a variety of ways. I already use this in my creative life to pair seemingly disparate ideas into one harmonious visual. This skill spills over into other areas, and can be accessed by the logical side of my brain. I know this based on past experience, through learning what it takes to be a creative, and listening to others' feedback.
 
@@ -74,14 +75,19 @@ By knowing my strengths and working preferences, I can more seamlessly integrate
  
 ### What efforts do you make to manage your learning process? Are these efforts successful? What challenges have inhibited your ability to manage your learning process effectively?
 
-There are several occasions when I recall learning a complex skill very quickly without much effort. Using the model from Sierra's keynote, the skill moved from board A to board C. In the earlier occasions, I didn't know what was making my learning so effective. Later on, I realized what it was: I was getting into 'flow state' and learning new things as I implemented them.  
+There are several occasions when I recall learning a complex skill very quickly without much effort. Using the model from Sierra's keynote, the skill moved from board A to board C without lagging in board B. In the earlier occurences, I didn't know what was making my learning so effective. Later on, I realized what it was: I started a project I was deeply interested in completing, whose process was considerably more advanced than my current skillset would allow. Throughout the way, I would encounter so much trial and error that I would force myself to learn new things and raise my skill ceiling. Even though it took a lot of effort, it didn't feel like it since I was so focused on solving one specific problem at a time, and I was having a ton of fun doing it. Before I knew this was such an effective way of learning, I would often try to analyze everything I could from the outside by reading manuals and other instructional materials before getting a hands on. The challenge with this way of doing it was I didn't get any real practice that could effectively move the skill from board A to board C without frequently referencing back to the material I already consumed. My natural fear of failure and extremely high expectations made this "analysis before trial" process more comfortable since I didn't have to fully commit to anything, but it came with the price of costing more time and mental energy than necessary.
+
 ### How do Sierra's and Coate's material relate to your current process for learning?
 
+I relate to Coates' feeling of being uncertain and uncomfortable in early stages (and even much later stages) of learning something new. That feeling of not knowing what you're doing can be crippling if you overthink it. However, I've learned to embrace that feeling. I have gone through this process of feeling lost in the beginning but successfully finding my footing so many times that I don't doubt my ability to learn _anything_ new. I agree with the Coates' sentiment that 'feelings come and go' in the learning process, and I've learned to not let that fluctuation distract too much from my progress.
 
 ### What role does your emotional state of mind play in your learning? How do your successes and failures at learning affect your emotional state?
 
+When I'm not feeling as confident in my abilities it can be more difficult to make the jump into failing aspect of learning, but for the most part I've learned to not let it hinder me. If I find myself not fully understanding something, I always try to attack it from different angles. Certain concepts are easier learned visually, kinesthetically, or in a procedural, analytical format. On the rare occasion I find myself struggling to learn a concept after many attempts at grasping it, it certainly has affected my emotional state. It's a very frustrating feeling but I know to take it with a grain of salt. After successfully learning so many diverse things throughout my life I know sometimes I just need a break. Other times I just need to learn more fundamentals. Ultimately, I know that difficulty learning something has nothing to do with my own self-worth, rather, a small piece of the puzzle is missing.
 
 ### How will you prepare yourself to be at your best with your learning process while at Turing?
+
+I plan to get outside perspective as often as I can to expose myself to possible blind spots and additional findings. One general weakness I've identified is my proclivity to isolate and take all the burden for a task. Although I've gotten better at it recently, I still would like to get better about reaching out for help more often. On the bright side, expecting myself to find all the answers has made me capable of working independently and extremely resourceful. Additionally I plan to meditate as often as I can, even if just for 5 minutes a day. I find it's very easy to get caught up in a certain thought pattern when you don't take a mental break. Meditation has taught me to evaluate my feelings and thoughts from an outside perspective, and even just a few minutes has incredible benefits.
  
 ## **Capstone submission directions:**
 In a gist, please:
